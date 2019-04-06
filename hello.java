@@ -1,4 +1,4 @@
-package com.itheima.test;
+/*package com.itheima.test;*/
 
 public class hello {
     public static void main(String[] args) {
@@ -10,6 +10,9 @@ public class hello {
         System.out.println("hello");
     }
     public void test(){
+        int i=0;
+        i+=10;
+        System.out.println(i);
         System.out.println("修改了");
     }
     public void test2(){
