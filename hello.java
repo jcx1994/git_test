@@ -12,4 +12,7 @@ public class hello {
     public void test(){
         System.out.println("修改了");
     }
+    public void test2(){
+        System.out.println("再次修改");
+    }
 }
